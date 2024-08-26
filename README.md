@@ -18,9 +18,8 @@ Copy
 
 This backend powers an innovative farm management platform that leverages AI and machine learning to provide farmers with data-driven insights. Our system integrates time series forecasting, natural language processing, and soil data analysis to offer a comprehensive suite of tools for modern agriculture.
 
-![Dashboard Screenshot](link_to_dashboard_screenshot.png)
-![Forecast Screenshot](link_to_forecast_screenshot.png)
-![Agronomist Screenshot](link_to_agronomist_screenshot.png)
+![happy-desert-0cf68191e-5-azurestaticapps-net-forecast (1)](https://github.com/user-attachments/assets/b12ff787-1606-48c5-bf09-e60b17f8f7df)
+
 
 ## Key Technologies
 
